@@ -30,25 +30,26 @@ A menu-driven Bank Management System developed using **Object-Oriented Programmi
 - Member Functions
 - Vector of Objects
 
-## ▶️ How to Run
+## ▶️ How to Compile and Run
 
-Compile
+### Compile
 
 ```bash
-g++ main.cpp -o bank
+g++ BankManagement.cpp -o bank
 ```
 
-Run
+### Run (macOS / Linux)
 
 ```bash
 ./bank
 ```
 
-Windows
+### Run (Windows)
 
 ```bash
 bank.exe
 ```
+
 
 ## 📸 Sample Menu
 
